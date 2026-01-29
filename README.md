@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am currently a junior student-athlete at Elon University, majoring in Finance, with a minor in Sport Management.
 <!--
 **jordinw7/jordinw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
